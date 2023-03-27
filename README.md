@@ -4,11 +4,6 @@ The fields of machine learning and artificial intelligence have made great strid
 
 Complicated datasets with a sizable size and subpar usability scores may point to a potential trend of mediocrity in the prediction accuracies for the model built using these datasets. It need not be a strict rule, though, and such generalised notions can be refuted using modern, sophisticated computing tools. The project uses a dataset with a similar description and investigates a number of techniques to develop appropriate prediction models using Classification Mining Techniques and Deep Learning concepts to produce predictions that are more accurate than those in the base paper without overfitting the model.
 
-## Project Team
-
-|Sl.No. | Name  |
-|1|Arjun Rajesh Nair|
-
 ## Project Objective
 
 Jock A. Blackard and Denis J. Dean used discriminant analysis and an artificial neural network in 1999 to predict the forest cover in different parts of the Roosevelt National Forest in Colorado, USA.
