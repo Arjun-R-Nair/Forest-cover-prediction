@@ -7,7 +7,7 @@ Complicated datasets with a sizable size and subpar usability scores may point t
 ## Project Team
 
 |Sl.No. | Name  |
-|1|Arjun Rajesh Nair
+|1|Arjun Rajesh Nair|
 
 ## Project Objective
 
