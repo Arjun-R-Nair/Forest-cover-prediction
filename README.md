@@ -8,7 +8,7 @@ Complicated datasets with a sizable size and subpar usability scores may point t
 
 Jock A. Blackard and Denis J. Dean used discriminant analysis and an artificial neural network in 1999 to predict the forest cover in different parts of the Roosevelt National Forest in Colorado, USA.
 
-But according to his paper, the model they built using artificial neural networks on various columns of data only had a 71.1% prediction accuracy. Although this approach was superior to the previously used traditional Discriminant Analysis, our goal in this project is to develop a variety of classification models in order to improve accuracy while still using the same dataset.
+But according to his paper, the model they built using artificial neural networks on various columns of data only had a 71.1% prediction accuracy. Although this approach was superior to the previously used traditional Discriminant Analysis, goal in this project is to develop a variety of classification models in order to improve accuracy while still using the same dataset.
 
 This dataset contains data on the kind of tree, the amount of shadows, the surrounding wildness, the distance to nearby landmarks (roads, for example), the type of soil, the terrain of the area, etc. There are more than 0.5 million item sets in the dataset, making it very big. According to prestigious data science websites, its usability is 5.9.
 
